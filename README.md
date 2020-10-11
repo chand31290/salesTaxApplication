@@ -52,3 +52,7 @@ Output 3:
 1 box of imported chocolates: 11.85
 Sales Taxes: 6.70
 Total: 74.68
+
+Solution : 
+Execute the jar as : java -jar SalesTaxAggregator.jar input1.txt input2.txt input3.txt
+Note : Give full path of the input files
